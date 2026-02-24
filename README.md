@@ -1,2 +1,44 @@
-# sql-warehouse-data-project
-Building a modern data warehouse with SQL Server, including ETL processes,data modeling and analyticss.
+# Data Warehouse and Analytics Project
+
+Welcome to the **Data Warehouse and Analytics Project** repository
+This Project showcases a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. It is a portfolio project that also highlights industry best practices in data engineering and analytics.
+
+
+---
+
+## Project Requirements
+
+### Building the Data Warehouse (Data Engineering)
+
+#### Objective
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making
+
+#### Specifications
+- **Data Sources**: Import Data from two source systems (ERP and CRM) provided as CSV files.
+- **Data Quality**: Cleanse and resolve data Quality issues prior to analysis.
+- **Integration** Combine both sources into a single, user-friendly data model designed for analytical queries.
+- **Scope**: Focus on the latest dataset only; historization of data is not required
+- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+---
+
+## BI: Analytics & Reporting (Data Analytics)
+
+#### Objective
+Develop SQL-based analytics to deliver detailed insights into:
+- **Customer Behavior**
+- **Product Perfomance**
+- **Sales Trends**
+
+These insights empower stakeholders with key business metrics, enabling strategic decision making.
+
+---
+
+## License
+
+This project is licensed under the .[MIT License].(LICENSE).
+
+## About Me
+
+Hi there! I am **Collins Akumoli Okonji**. I am Data-focused practitioner developing practical expertise in SQL and analytics, with an interest in building structured, insight-driven data solutions.
+    
