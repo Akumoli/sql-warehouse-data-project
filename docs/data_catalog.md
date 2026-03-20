@@ -21,7 +21,7 @@ tables and fact tables for specific business metrics
 | birthdate       | DATE         | The date of birth of the customer, formatted as YYYY-MM-DD (e.g.. 1971-10-06).       |
 | create_date     | DATE         | The date and time when the customer record was created in the system                 |
 
- 
+--- 
 #### 2. gold.dim_products
       -Purpose: Provides information about products and their attributes.
       -columns:
@@ -40,7 +40,7 @@ tables and fact tables for specific business metrics
 | product_line         | NVARCHAR(50) | The specific product line or series to which the product belongs (e.g., Road, Mountain).              |
 | start_date           | DATE         | The date when the product became available for sale or use, stored in                                 |
 
-
+---
 ##### 2. gold.fact_sales
       -Purpose: Stores transactional sales data for analytical purposes.
       -columns:
