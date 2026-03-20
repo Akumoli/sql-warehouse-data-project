@@ -56,37 +56,6 @@ tables and fact tables for specific business metrics
 | sales_amount  | INT          | The total monetary value of the sale for the line item, in whole currency units (e.g.. 25). |
 | quantity      | INT          | The number of units of the product ordered for the line item (e.g,1)                        |
 | price         | NVARCHAR(50) | The price per unit of product the line item, in whole currency units(eg.,25)                |
-
-
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
