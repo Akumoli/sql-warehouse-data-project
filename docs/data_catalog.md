@@ -41,7 +41,7 @@ tables and fact tables for specific business metrics
 | start_date           | DATE         | The date when the product became available for sale or use, stored in                                 |
 
 ---
-##### 2. gold.fact_sales
+##### 3. gold.fact_sales
       -Purpose: Stores transactional sales data for analytical purposes.
       -columns:
 
