@@ -42,8 +42,8 @@ tables and fact tables for specific business metrics
 
 
 ##### 2. gold.fact_sales
-      -** Purpose**: Stores transactional sales data for analytical purposes.
-      -**columns**:
+      - Purpose: Stores transactional sales data for analytical purposes.
+      -columns:
 
 | Column Name   | Data Type    | Description                                                                                 |
 |---------------|--------------|---------------------------------------------------------------------------------------------|
@@ -58,15 +58,6 @@ tables and fact tables for specific business metrics
 | price         | NVARCHAR(50) | The price per unit of product the line item, in whole currency units(eg.,25)                |
 
 
-
-
-
-
-
-
-
-
-
  
  
 
@@ -2057,4 +2048,4 @@ tables and fact tables for specific business metrics
  
  
  
- Column Name Data Typ
+  Name Data Typ
