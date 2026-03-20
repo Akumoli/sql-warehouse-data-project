@@ -41,4 +41,8 @@ This project is licensed under the .[MIT License].(LICENSE).
 ## About Me
 
 Hi there! I am **Collins Akumoli Okonji**. I am Data-focused practitioner developing practical expertise in SQL and analytics, with an interest in building structured, insight-driven data solutions.
+
+https://www.linkedin.com/in/collins-akumoli-980731133/
+
+
     
