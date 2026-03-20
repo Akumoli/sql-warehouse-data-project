@@ -6,8 +6,8 @@ tables and fact tables for specific business metrics
 ---
 
 ### 1. gold.dim_customers
-      -** Purpose**: stores customers details enriched with demographic and geographic data.
-      -**columns**:
+      -Purpose: stores customers details enriched with demographic and geographic data.
+      -columns:
 | Column Name     | Data Type    | Description                                                                          |
 |-----------------|--------------|--------------------------------------------------------------------------------------|
 | customer_key    | INT          | Surrogate key uniquely identifying each customer record in the dimension table.      |
@@ -42,7 +42,7 @@ tables and fact tables for specific business metrics
 
 
 ##### 2. gold.fact_sales
-      - Purpose: Stores transactional sales data for analytical purposes.
+      -Purpose: Stores transactional sales data for analytical purposes.
       -columns:
 
 | Column Name   | Data Type    | Description                                                                                 |
